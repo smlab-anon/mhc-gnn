@@ -247,7 +247,6 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 
 For questions or issues:
 - Open an issue on GitHub
-- Email: smishra@niser.ac.in
 
 ## Additional Resources
 
