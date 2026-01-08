@@ -35,7 +35,7 @@ Standard GCN collapses to near-random performance beyond 16 layers, while mHC-GN
 
 ```bash
 # Clone the repository
-git clone https://github.com/subhankar-niser/mhc-gnn.git
+git clone 
 cd mhc-gnn
 
 # Create conda environment
@@ -231,12 +231,7 @@ The code automatically downloads and processes:
 If you use this code in your research, please cite:
 
 ```bibtex
-@article{mishra2025mhcgnn,
-  title={{m}HC-GNN: Manifold-Constrained Hyper-Connections for Graph Neural Networks},
-  author={Mishra, Subhankar},
-  journal={arXiv preprint arXiv:XXXX.XXXXX},
-  year={2026}
-}
+
 ```
 
 ## License
